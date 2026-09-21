@@ -60,8 +60,8 @@ I believe in hands-on engineering — building software that tackles real techni
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyalovemoney&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyalovemoney&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyalovemoney&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanyalovemoney&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
