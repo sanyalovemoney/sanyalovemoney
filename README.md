@@ -10,7 +10,6 @@
   <a href="https://t.me/Zxhag">Telegram</a> • 
   <a href="https://github.com/sanyalovemoney">GitHub</a>
 </p>
----
 
 ### 💡 About Me
 
