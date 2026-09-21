@@ -1,10 +1,15 @@
-# Hi, I'm Oleksandr 👋
+<h1 align="center">Hi, I'm Oleksandr 👋</h1>
 
-Full-Stack & Backend-Focused Engineer 📍 Ternopil, Ukraine  
-🎓 Student at **Igor Sikorsky Kyiv Polytechnic Institute (KPI)**
+<p align="center">
+  <b>Full-Stack & Backend-Focused Engineer</b> · 📍 Ternopil, Ukraine<br>
+  🎓 Student at <b>Igor Sikorsky Kyiv Polytechnic Institute (KPI)</b>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/oleksandr-mashuta-051b45438/) • [Telegram](t.me/Zxhag) • [GitHub](https://github.com/sanyalovemoney)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/oleksandr-mashuta-051b45438/">LinkedIn</a> • 
+  <a href="https://t.me/Zxhag">Telegram</a> • 
+  <a href="https://github.com/sanyalovemoney">GitHub</a>
+</p>
 ---
 
 ### 💡 About Me
